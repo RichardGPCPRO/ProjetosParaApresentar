@@ -48,7 +48,7 @@ int main() {
             printf("\nProducao restante: %.21f", producao);
         }
     } else {
-        printf("\nCapacidade total dos caminhoes é insuficiente para a produção.\n");
+        printf("\nCapacidade total dos caminhoes Ã© insuficiente para a produÃ§Ã£o.\n");
     }
 
     printf("\nFim do programa\n");
